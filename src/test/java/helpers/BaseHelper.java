@@ -11,11 +11,6 @@ public class BaseHelper
 {
     protected static WebDriver driver = new ChromeDriver();
     protected static WebDriverWait wdWait = new WebDriverWait(driver, 10);
+    protected static void navigateToUrl(String url) { driver.get(url);}
 
-    public static WebElement returnElementAttValue(String attributeName, String attributeValue)
-    {
-        String selector = "["+ attributeName + "=" + attributeValue +"]";
-        WebElement element = driver.findElement(By.cssSelector(selector));
-        return  element;
     }
-}
