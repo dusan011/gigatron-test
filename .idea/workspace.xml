@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c278b08-46b1-459c-bf8b-4a59d12f5295" name="Default Changelist" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/GigatronLogIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/GigatronTest.java" afterDir="false" />
+    <list default="true" id="1c278b08-46b1-459c-bf8b-4a59d12f5295" name="Default Changelist" comment="added navigation to gigatron.rs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/helpers/BaseHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/helpers/BaseHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/helpers/GigatronLogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/helpers/GigatronLogIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/GigatronTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/GigatronTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/helpers/GigatronLogIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/helpers/GigatronLogIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/GigatronTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/GigatronTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612714783261</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added navigation to gigatron.rs">
+      <created>1612715089639</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612715089639</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -162,16 +170,33 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="added navigation to gigatron.rs" />
+    <option name="LAST_COMMIT_MESSAGE" value="added navigation to gigatron.rs" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1612716386283">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612716386283" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1612716386283">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612716386283" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1612716386282">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612716386282" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1612716386283">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612716386283" />
     <state x="2360" y="94" key="SettingsEditor" timestamp="1612714700387">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612714700387" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1612714813631">
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1612715119535">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612714813631" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612715119535" />
   </component>
 </project>
